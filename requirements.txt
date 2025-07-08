@@ -1,6 +1,5 @@
 streamlit
 opencv-python
-numpy
 tensorflow
 transformers
 speech_recognition
