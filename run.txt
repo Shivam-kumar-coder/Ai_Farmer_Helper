@@ -1,0 +1,1 @@
+streamlit run ui4.py --server.runOnSave=false
